@@ -1,6 +1,6 @@
 (defproject lein-extend-cp "0.1.0"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "lein-extend-cp is a Leiningen plugin to add paths to your classpath."
+  :url "https://github.com/nickgieschen/lein-extend-cp"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :eval-in-leiningen true

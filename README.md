@@ -9,7 +9,7 @@ add dependencies in the conventional way. For more on this see [repeatability](h
 
 If, however, you do feel you need to use this plugin, use it thusly:
 
-Put `[lein-extend-cp "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your project.clj.
+Put `[lein-extend-cp "0.1.0"]` into the `:plugins` vector of your project.clj.
 
 Then, to actually specify the paths you want added to the classpath, put them in the `:lein-extend-cp` map of your project.clj:
 
